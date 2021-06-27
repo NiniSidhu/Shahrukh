@@ -1,0 +1,42 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+    color: white; 
+   
+}
+
+.navigation{
+    margin-bottom: 0px;
+    color: 
+}
+
+.hero{
+    width: 250px;
+    height: 250px;
+    border-radius: 35%;
+}
+
+.intro{
+    font-size: 25px;
+    align-content:center;
+}
+
+.title h4{
+    display: grid;
+    justify-content: center;
+    color: #607d8b;
+}
+
+.projectone{
+    width: 200px;
+    height: 200px;
+    display: grid;
+    justify-content: center;
+}
+
+.icon{
+    display: grid;
+    justify-content: end;
+    color: #607d8b;
+}
